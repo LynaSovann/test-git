@@ -3,7 +3,7 @@
 <p align="center">
   <img src="http://34.129.192.53:3000/logo.svg" alt="SelaMonty Logo" width="300"/>
   <br>
-  <em>A modern platform for museum management and visitor engagement</em>
+  <span>A modern platform for museum management and visitor engagement</span>
 </p>
 
 ## 🛠 Built With
@@ -21,3 +21,6 @@
 ### Installation
 
 1. Clone the repository:
+```bash
+git clone https://github.com/13-Generation-Basic-Course-Projects/selamunty-ui.git
+```
